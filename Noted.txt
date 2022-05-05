@@ -1,0 +1,10 @@
+Noted
+
+1. 錯誤的log輸出
+	i. 比對時間
+	ii. 加上Tag(錯誤的)
+		a. Tag種類: File Mapping, Sheet Mapping, Data Mapping
+2. 部分重複使用的功能拉出來用函式寫
+	i. 檔名比對
+	ii. sheet比對
+3. 
